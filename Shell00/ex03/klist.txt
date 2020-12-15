@@ -1,5 +1,0 @@
-Credentials cache: API:9E5360FF-A8B4-4C23-8317-3A6B797E556E
-        Principal: fiferrei@42LISBOA.COM
-
-  Issued                Expires               Principal
-Nov 25 11:00:30 2020  Nov 25 21:00:24 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
